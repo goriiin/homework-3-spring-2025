@@ -37,4 +37,27 @@
 ![image](https://github.com/user-attachments/assets/c72b0e17-096f-40bb-8802-fc39a1f2c86b)
 ![image](https://github.com/user-attachments/assets/451a6830-65a2-4010-94cb-30e926918b3a)
 
-3. 
+3. Кампании. Целевые действия. Отсутствие ввода бюджета. 1 ошибка 
+![image](https://github.com/user-attachments/assets/8caf8ab8-8068-4eef-bbef-a38451cf18cd)
+
+4. Кампании. Группа. Настройка аудитории. 
+![image](https://github.com/user-attachments/assets/27f54a61-b129-452d-a32a-bb25eeb33780)
+
+5. Кампании. Группа. Создание еще одной группы
+![image](https://github.com/user-attachments/assets/f59ebe82-5027-4f5e-bb35-0bff8f6d0d45)
+
+6. Кампании. Объявление. Домен в ЧС.
+![image](https://github.com/user-attachments/assets/50b9931d-6613-47df-9fa5-48aedcb42b4e)
+
+7. Кампании. Объявление. Генерация текста от нейросети по запросу
+![image](https://github.com/user-attachments/assets/c8f218ec-68fd-4d4c-90ff-90a90e15095d)
+
+8. Кампании. Объявление. Создании кампании без ввода полей. Ошибки
+![image](https://github.com/user-attachments/assets/46aa2b0c-ce96-4ddc-9f00-0259e3a45967)
+
+9. Кампании. Создание кампании. Ошибки. При наличии ошибок вывод ошибок с гиперссылками
+![image](https://github.com/user-attachments/assets/7e913170-ee64-4064-9740-6069f92d86f1)
+
+10. Кампания. Кампания создана
+![image](https://github.com/user-attachments/assets/6ad6a40d-9a60-4358-8815-f16f91922bc7)
+
